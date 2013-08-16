@@ -1,0 +1,11 @@
+{
+  "name": "AWS-Dyndns",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node update.js"
+  },
+  "dependencies": {
+    "aws-sdk": ""
+  }
+}
